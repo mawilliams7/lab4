@@ -11,7 +11,6 @@ Purpose: Compare the binary tree implementation of Lab 3B with a hash
 import math
 import random
 from HashTableNode import HashTableNode
-import time
 
 # This is the mapping used for converting a word to a base 10 number
 MAPPING = {
